@@ -22,8 +22,14 @@ If you are non-technical, you can particpate too! Read more about [non-code cont
 We'll send you virtual swag in thanks for your contributions! And for each contribution you make to an Intuit Open Source project, you will get one entry into a drawing to win a swag package including stickers and the t-shirt pictured above. Contributions will only count if your PRs are merged by Friday, **November 3, 2023** and submitted on the form linked above.
 
 ## 🤝 Join us in person to celebrate Hacktoberfest
-Intuit will be hosting a meetup in October in 2 locations:
+Intuit will be hosting a meetup in October in 3 locations:
 
+India 🇮🇳 
+- Date: 10/05/23
+- Time: 9:30am - 2pm IST
+- See our LinkedIn event pages for full details  [HERE](https://www.linkedin.com/events/intuitindiahacktoberfestmeetup7115041215141609474/)
+
+Americas 🇺🇸 
 - Date: 10/11/23
 - Time: 4pm - 8pm PST
 - See our LinkedIn event pages for full details by location: [Mountain View](https://www.linkedin.com/events/intuithacktoberfestmeetup-mount7112545227969630209/) and [San Diego](https://www.linkedin.com/events/intuithacktoberfestmeetup-sandi7112546014225432576/)
