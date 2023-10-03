@@ -39,6 +39,22 @@ Americas 🇺🇸
 - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 - [How to Write the Perfect Pull Request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 
+Learn about and contribute to our Intuit Open Source projects:
+
+| Project       | Resources     |
+| ------------- | ------------- |
+| Argo          | - [Overview and Documentation](https://argoproj.github.io/) <br> - [Argocon 22 - How to Contribute session](https://degreed.com/videos/from-code-to-docs-to-marketing-how-to-contribute?d=32780131&orgsso=intuit) <br> - [ArgoCon 2022 Intuit sessions](https://degreed.com/pathway/59yk1ow5po#/pathway?orgsso=intuit) <br> - [Argo Workflows repo](https://github.com/argoproj/argo-workflows) <br> - [Argo Events repo](https://github.com/argoproj/argo-events) <br> - [Argo CD repo](https://github.com/argoproj/argo-cd) <br> - [Argo Rollouts repo](https://github.com/argoproj/argo-rollouts)|
+| Numaproj |  - [Repo](https://github.com/numaproj) <br> - [Demo presentation](https://degreed.com/videos/argo-cd-observability-with-aiops-detect-incident-fast-amit-kalamkar-vigith-maurice-intuit?d=32780139&orgsso=intuit) |
+| Admiral (& Istio)  | - [Istio docs](https://istio.io/latest/docs/ops/deployment/deployment-models/) <br> - [Multicluster config using Admiral](https://istio.io/latest/blog/2020/multi-cluster-mesh-automation/) <br> - [Origin story of Admiral](https://medium.com/intuit-engineering/genius-of-admiral-3307e63e3ab6) |
+| Player         | - [Repo](https://github.com/player-ui) |
+| Cello         | - [Repo](https://github.com/cello-proj/cello) |
+| Data API         | - [Repo](https://github.com/graph-quilt) |
+| Mailchimp Open Commerce (API)       | - [Repo](https://github.com/reactioncommerce/reaction/) <br> - [MOC Site (documentation, sandbox)](https://mailchimp.com/developer/open-commerce/) <br> - [Community chat (Discord)](https://discord.gg/Bwm63tBcQY) |
+| Mailchimp Open Commerce (CLI)       | - [Repo](https://github.com/reactioncommerce/cli) |
+| Auto      | - [Overview](https://intuit.github.io/auto/) |
+| DevTools-DS      | - [Repo](https://github.com/intuit/devtools-ds) |
+
+
 ## ❓ Questions
 For questions about the project your contributing to, please raise an issue on the project repo and the maintainers will address it directly. For any other questions, please email monica_miyasato@intuit.com.
 
