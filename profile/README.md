@@ -1,4 +1,4 @@
-# Welcome to Intuit's open-source GitHub organization!
+# Welcome to Intuit's Open Source GitHub organization!
 
 We also have a few other OSS orgs. Check them out here:
 * [argoproj](https://github.com/argoproj)
